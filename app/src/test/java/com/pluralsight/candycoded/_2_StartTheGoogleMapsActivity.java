@@ -193,4 +193,3 @@ public class _2_StartTheGoogleMapsActivity {
         return viewContainers;
     }
 }
-
